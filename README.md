@@ -1,2 +1,2 @@
-# hexo.blog.hithub.io
+# hexo.blog.github.io
 hexo博客
